@@ -61,7 +61,7 @@ If you find our survey useful for your research, please cite the following paper
 ```bibtex
 @article{xu2023launchpadgpt,
   title={Launchpadgpt: Language model as music visualization designer on launchpad},
-  author={Xu, Siting and Tang, Yunlong and Zheng, Feng},
+  author={Xu, Siting and Tang, Yolo Y. and Zheng, Feng},
   journal={arXiv preprint arXiv:2307.04827},
   year={2023}
 }
